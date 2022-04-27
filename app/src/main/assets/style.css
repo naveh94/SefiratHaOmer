@@ -1,0 +1,30 @@
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18pt;
+	text-align: center;
+	direction: rtl;
+}
+.container {
+	margin: auto;
+	width: 500px;
+}
+#leshem-yihud,#etmol,#birshut,#bracha,#hayom,#harahaman,#psukim-container,#lamnatzeah,#ana-becoah-container,#yehi-ratzon {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#hayom, #sefira {
+	font-size: 24pt;
+}
+
+#belahash, #etmol,#psukim-pre,#ana-becoah-pre{
+	font-size: 14pt;
+}
+
+#ana-becoah, #psukim {
+	text-align: right;
+}
+#ana-becoah-inner-container {
+	display: flex;
+	justify-content: space-between;
+}
