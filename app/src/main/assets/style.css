@@ -1,6 +1,6 @@
 body {
 	font-family: "Times New Roman", Times, serif;
-	font-size: 12pt;
+	font-size: 14pt;
 	text-align: center;
 	direction: rtl;
 }
@@ -14,11 +14,11 @@ body {
 }
 
 #hayom, #sefira {
-	font-size: 20pt;
+	font-size: 22pt;
 }
 
 .comment, .rt {
-	font-size: 11pt;
+	font-size: 12pt;
 }
 
 .pasuk {
